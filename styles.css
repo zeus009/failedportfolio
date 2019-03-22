@@ -1,0 +1,171 @@
+body{
+  background-color: #391E53;
+  color: #fff;
+  text-align: center;
+}
+h5{
+  font-family: "Permanent Marker";
+  padding-bottom: 5%
+}
+h2{
+  font-size: 3rem;
+  font-weight: bold;
+  padding-bottom: 4%
+}
+h3{
+  font-size: 2.5rem;
+  padding: 4%;
+  font-weight: 600;
+}
+h4{
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding-top: 3%;
+}
+h6{
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.Firstword{
+  color: #ffdf00;
+}
+#title{
+
+  padding: 4% 10%;
+  padding-bottom: 7%;
+  font-family: "Montserrat";
+  background-image: url("images/night sky.png");
+  background-repeat: no-repeat;
+}
+.navbar {
+  padding: 0;
+  padding-bottom: 3.5rem;
+}
+.nav-item{
+  padding-right:2rem;
+  padding-left: 2rem;
+}
+.logoimg{
+  max-width: 150px;
+}
+
+.big-heading{
+  font-family: "Shojumaru";
+  font-size: 4.5rem;
+  line-height: 1.5rem;
+  color: #fff;
+  padding-bottom: 1%;
+}
+.titlesubheading{
+  font-size: 2rem;
+  color: #ffdf00;
+}
+
+.taj{
+  width: 100%;
+}
+/* Introduction */
+
+#intro{
+  padding: 2% 10%;
+}
+.introheading{
+  font-size: 3rem;
+}
+.para{
+  font-size: 1.2rem;
+  line-height: 1.5;
+  padding: 2% 7%;
+}
+
+/* Services */
+
+#service{
+  padding: 7% 10%;
+}
+.designimage{
+  border-radius: 100%;
+  width: 250px;
+  padding: 5%;
+  margin: 3% 5%
+}
+.feature-image{
+  padding: 5%;
+}
+/* contact */
+#contact{
+  padding: 2% 10%;
+}
+.Download-button {
+  margin: 3% 5% 3% 0;
+}
+.features-section {
+  margin: 5px 0;
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8127;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* footer */
+#footer{
+  text-align: center;
+  padding: 3% 15%;
+}
+.social-media{
+  padding: 10px;
+}
+
+#Copyright{
+  padding: 15px;
+}
+
+/* Page Work -------------------------------------------------------------*/
+#work-intro{
+  padding: 5% 15%;
+  background-color: #fff;
+  color: black;
+}
+.pencil{
+  max-width: 150px;
+}
+.paragraph{
+  font-size: 1.2rem;
+  line-height: 1.5;
+  padding: 4% 10%;
+}
+#website{
+
+  text-align: center;
+  color: #fff;
+}
+.carousel-item{
+  padding: 0.5% 15%;
+}
+.Headingtwo{
+  font-size: 3rem;
+  font-weight: bold;
+  padding-top: 5%;
+  padding-bottom: 2%
+}
+
+/* Logo Design */
+.whitespace{
+  background-color: #fff;
+  color: black;
+}
+.whitelink{
+  background-color: #e4e4e4;
+}
+.testimonial-image{
+  max-width: 945px;
+  margin-top: 0
+  padding 0;
+}
